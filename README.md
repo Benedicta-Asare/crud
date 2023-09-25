@@ -102,10 +102,8 @@ Swagger UI: http://localhost:8000/docs
 
 ### Models
 - User:
-- - `id` (int): The unique identifier for the user.
-- - `name` (str): The name of the user. 
+    - `id` (int): The unique identifier for the user.
+    - `name` (str): The name of the user. 
 
 ### Testing 
 >  You can test the API using tools like Postman or by sending HTTP requests to the specified endpoints.
-
-### Structure
